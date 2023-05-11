@@ -17,7 +17,6 @@ O sistema trata-se de uma aplicação para controle de finanças pessoais. As fu
 
 ## Detalhamento de Requisitos:
 
-# Pessoa A
 
 ### Cadastro de um novo usuário:
 
@@ -31,7 +30,6 @@ Ao clicar no botão **Cadastrar** você deverá enviar os dados do formulário p
 
 ---
 
-# Pessoa A
 
 ### Login de usuário:
 
@@ -44,7 +42,6 @@ Ao clicar no botão **Cadastrar** você deverá enviar os dados do formulário p
 
 ---
 
-# Pessoa B
 
 ### Página principal (main):
 
@@ -63,8 +60,6 @@ Veja na imagem abaixo:
 ![](https://i.imgur.com/SYm8uuY.png)
 
 ---
-
-# Pessoa B
 
 ### Cadastro de uma nova transação:
 
@@ -87,7 +82,6 @@ Após o usuário clicar no botão **confirmar**, uma nova transação deve ser i
 
 ---
 
-# Pessoa B
 
 ### Editar uma transação:
 
@@ -107,7 +101,6 @@ Após validar os campos e o usuário clicar em confirmar, a transação deverá 
 
 ---
 
-# Pessoa B
 
 ### Excluir uma transação:
 
@@ -123,7 +116,6 @@ Ao clicar nesse ícone, um "popup" irá aparecer para que o usuário confirme ou
 
 ---
 
-# Pessoa B
 
 ### Listagem de transações:
 
@@ -142,7 +134,6 @@ Cada linha da tabela representa uma transação. Portanto cada botão representa
 
 ---
 
-# Pessoa A
 
 #### Cabeçalho da tabela:
 
@@ -159,7 +150,6 @@ Veja abaixo o ícone que representa que a coluna está sendo ordenada:
 
 ---
 
-# Pessoa A
 
 ### Resumo das transações:
 
@@ -176,7 +166,6 @@ Veja na imagem abaixo, como deve ser o resumo;
 
 ---
 
-# Pessoa A
 
 ### Filtros:
 
@@ -207,7 +196,6 @@ Veja na imagem abaixo os botões:
 
 ---
 
-# Pessoa B
 
 ### Editar perfil de usuário:
 
@@ -228,7 +216,6 @@ Veja na imagem o modal já preenchido:
 
 ---
 
-# Pessoa A
 
 ### Logout e nome de usuário
 
